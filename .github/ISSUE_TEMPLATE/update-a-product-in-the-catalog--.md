@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-**As a** [Service Provider]  
- **I need** [The service to be deployed to the cloud]  
- **So that** [Scale capacity with user demand]  
+**As a** [User]  
+ **I need** [The Update Functions]  
+ **So that** [I can update a product in the catalog]  
    
  ### Details and Assumptions
 
@@ -21,7 +21,7 @@ assignees: ''
  ### Acceptance Criteria  
    
  ```gherkin
- Given [I have deployed the cloud]
- When [A customer comes to our URL]
- Then [then our service will be available]
+ Given [The Update functions has been built]
+ When [A client visited our URL]
+ Then [Ability to update products in the catalog are functional]
  ```
