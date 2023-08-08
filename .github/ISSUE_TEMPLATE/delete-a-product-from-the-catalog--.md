@@ -1,5 +1,5 @@
 ---
-name: 'Need the ability to delete a product from the catalog. '
+name: 'Delete a product from the catalog. '
 about: 'Need the ability to delete a product from the catalog. '
 title: ''
 labels: ''
