@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-**As a** [Service Provider]  
- **I need** [The service to be deployed to the cloud]  
- **So that** [Scale capacity with user demand]  
+**As a** [User]  
+ **I need** [The Catalog to have "Dislike" options]  
+ **So that** [The products can be disliked at desirably]  
    
  ### Details and Assumptions
 
@@ -21,7 +21,7 @@ assignees: ''
  ### Acceptance Criteria  
    
  ```gherkin
- Given [I have deployed the cloud]
+ Given ["Dislike" Option has been Implemented]
  When [A customer comes to our URL]
- Then [then our service will be available]
+ Then [The ability to "Dislike" a product will surface]
  ```
